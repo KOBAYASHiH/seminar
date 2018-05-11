@@ -1,0 +1,2 @@
+# seminar
+private seminar log
