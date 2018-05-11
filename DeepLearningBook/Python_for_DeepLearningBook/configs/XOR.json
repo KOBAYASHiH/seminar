@@ -1,0 +1,7 @@
+{
+    "out_dir" : "experiments/XOR",
+    "model_name": "XOR",
+    "train_ratio": 0.75,
+    "epochs": 10,
+    "batch_size": 4
+}
